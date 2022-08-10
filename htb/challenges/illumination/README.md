@@ -1,15 +1,15 @@
-#Hack the Box - Challenge - Illumination
+# Hack the Box - Challenge - Illumination
 Author: SherlockSec
 Release Date: September 21, 2019
 
-##Challege Description
+## Challege Description
 A Junior Developer just switched to a new source control platform. Can you find the secret token?
 
-##Tools Used
+## Tools Used
 - git
 - base64
 
-##Write Up
+## Write Up
 
 Download and unzip the challenge file and CD into the directory:
 
