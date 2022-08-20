@@ -1,5 +1,5 @@
 # Hack the Box - Challenge - Reminiscent
-Author: rotarydrone
+Author: rotarydrone  
 Release Date: October 27, 2017
 
 ## Challege Description

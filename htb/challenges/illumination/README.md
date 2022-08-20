@@ -1,5 +1,5 @@
 # Hack the Box - Challenge - Illumination
-Author: SherlockSec
+Author: SherlockSec  
 Release Date: September 21, 2019
 
 ## Challege Description

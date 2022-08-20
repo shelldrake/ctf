@@ -1,5 +1,5 @@
 # Hack the Box - Challenge - Baby Encryption
-Author: P3t4
+Author: P3t4  
 Release Date: May 29, 2021
 
 ## Challege Description
@@ -35,8 +35,7 @@ $ cat msg.enc
 
 ```
 
-```
-$ cat chall.py   
+```python 
 import string
 from secret import MSG
 
@@ -54,7 +53,7 @@ f.close()
 
 Looks like chall.py outputs msg.enc and we have to reverse the encyprtion function. Let give that a try:
 
-```
+```python
 #/bin/python
 import string
 
