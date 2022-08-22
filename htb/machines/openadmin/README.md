@@ -1,4 +1,4 @@
-# Hack the Box - Machine - Heist
+# Hack the Box - Machine - OpenAdmin
 Author: del_KZx497Ju 
 Release Date: January 4, 2020
 
